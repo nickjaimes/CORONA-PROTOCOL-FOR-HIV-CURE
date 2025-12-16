@@ -1,0 +1,163 @@
+MASTER MANUSCRIPT
+
+(Nature / Cell / Lancet–Compatible Core Version)
+
+This is the base manuscript. Small tweaks are applied per journal (shown later).
+
+⸻
+
+Title
+
+A Systems-Oriented Framework for HIV Cure: Integrating Ultra-Sensitive Reservoir Detection, Digital Twin Modeling, and Adaptive Therapeutic Orchestration
+
+⸻
+
+Short Title (Running Head)
+
+A Systems Framework for HIV Cure
+
+⸻
+
+Authors
+
+Nicolas E. Santiago
+Safeway Guardian, Saitama, Japan
+
+Correspondence: Nicolas E. Santiago
+Email: [to be provided at submission]
+
+⸻
+
+Abstract
+
+(≤150 words for Nature / Cell; ≤250 for Lancet)
+
+Despite the success of antiretroviral therapy, HIV persists due to latent viral reservoirs that evade immune clearance and enable rapid rebound upon treatment interruption. Current cure efforts are constrained by limited reservoir detection sensitivity, incomplete immune restoration, and substantial inter-patient heterogeneity. Here, we propose a systems-oriented HIV cure framework that integrates ultra-sensitive reservoir measurement, spatial tissue cartography, multi-scale systems biology digital twins, and AI-driven adaptive therapeutic orchestration. Rather than advancing a single curative intervention, this platform enables coordinated evaluation and personalization of latency reversal, immune modulation, gene-based strategies, and preventive immunity under rigorous safety and ethical governance. This framework reframes HIV cure as a coordinated intelligence problem and establishes a scalable architecture for progressively increasing durable remission and cure probability.
+
+⸻
+
+Keywords
+
+HIV cure; viral reservoirs; systems biology; digital twin; adaptive clinical trials; immune exhaustion; global health
+
+⸻
+
+Main Text
+
+Introduction
+
+Combination antiretroviral therapy (ART) has transformed HIV into a manageable chronic condition; however, it does not eradicate infection due to the persistence of latent proviral reservoirs. These reservoirs reside in long-lived cells across multiple anatomical compartments, including lymphoid tissues, gut-associated lymphoid tissue, bone marrow, and the central nervous system. Viral rebound following ART interruption highlights the central challenge of HIV cure: the detection, characterization, and elimination or durable silencing of residual infection.
+
+Existing cure strategies have achieved partial success but remain limited by insufficient detection sensitivity, immune exhaustion, and the absence of integrative, patient-specific decision frameworks. These challenges suggest that HIV cure requires a systems-level approach rather than isolated therapeutic advances.
+
+⸻
+
+Conceptual Framework
+
+We propose that HIV cure probability increases when detection, modeling, and intervention are coordinated through an adaptive intelligence platform. The framework consists of four integrated layers:
+	1.	Ultra-sensitive reservoir detection
+	2.	Spatial reservoir cartography
+	3.	Systems biology digital twin modeling
+	4.	AI-driven cure orchestration and adaptive trials
+
+This modular architecture enables incremental validation and integration of emerging cure strategies.
+
+⸻
+
+Ultra-Sensitive Reservoir Detection
+
+Multiplexed single-cell assays quantify HIV DNA, RNA, host-virus junctions, and epigenetic repression marks, enabling probabilistic classification of infected cells. Viral diversity analysis further informs immune targeting and resistance risk. Reservoir burden is modeled as a continuous probability distribution rather than a binary measure.
+
+⸻
+
+Spatial Reservoir Cartography
+
+Anatomical mapping of reservoirs reveals tissue-specific sanctuary sites and immune exclusion zones. Longitudinal spatial profiling enables monitoring of therapeutic penetration and identification of relapse-prone compartments.
+
+⸻
+
+Immune Exhaustion and Reconstitution
+
+High-dimensional immune profiling characterizes exhaustion, metabolic impairment, and functional capacity of HIV-specific lymphocytes. Trajectory modeling identifies optimal windows for immune checkpoint modulation and metabolic restoration.
+
+⸻
+
+Systems Biology Digital Twin
+
+A patient-specific digital twin integrates molecular, cellular, tissue, and whole-body dynamics to simulate reservoir persistence and therapeutic outcomes. This enables in silico testing of intervention sequences prior to clinical exposure.
+
+⸻
+
+Therapeutic Strategy Modules
+
+The framework supports coordinated evaluation of:
+   •   Shock-and-kill: latency reversal combined with enhanced immune clearance
+   •   Block-and-lock: durable transcriptional and epigenetic silencing
+   •   Gene-based strategies: proviral excision or irreversible inactivation
+   •   Preventive immunity: vaccine-based reduction of reinfection and rebound risk
+
+⸻
+
+Adaptive Clinical Trial Design
+
+Multi-arm, multi-stage adaptive platform trials integrate real-time biomarker feedback and ethical allocation mechanisms. This design accelerates learning while minimizing patient risk.
+
+⸻
+
+Manufacturing, Ethics, and Global Access
+
+Scalable manufacturing, tiered pricing, informed consent, long-term surveillance, and equity-focused allocation are integral components of the framework.
+
+⸻
+
+Limitations
+
+This framework integrates near-term feasible components with longer-horizon strategies requiring extensive validation. Its modular design allows progressive refinement without over-commitment to unproven interventions.
+
+⸻
+
+Conclusion
+
+HIV cure is fundamentally a coordination problem across detection, biology, therapy, and governance. This systems-oriented framework establishes the infrastructure required to progressively achieve durable remission and, ultimately, global HIV eradication.
+
+⸻
+
+Acknowledgments
+
+The author acknowledges the global HIV research community and affected communities whose contributions make cure research possible.
+
+⸻
+
+Competing Interests
+
+The author declares no competing interests.
+
+⸻
+
+References
+
+(Abbreviated — expanded per journal)
+	1.	Siliciano RF et al. Nat Med.
+	2.	Deeks SG et al. Lancet.
+	3.	Chun TW et al. J Infect Dis.
+	4.	Barouch DH. Science.
+	5.	Gupta RK et al. N Engl J Med.
+
+⸻
+
+JOURNAL-SPECIFIC ADAPTATION GUIDE
+
+⸻
+
+🟢 Nature (Nature / Nature Medicine)
+
+Requirements
+   •   ≤150-word abstract
+   •   Concise, conceptual framing
+   •   Strong novelty justification
+   •   No speculative claims without caveats
+
+Recommended Framing
+   •   Emphasize framework, not cure claim
+   •   Use phrase: “conceptual systems framework”
+   •   Avoid “quantum” unless explicitly quantum-inspired
